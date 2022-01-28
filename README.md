@@ -15,23 +15,18 @@ But I'm also interested in other domains of computer science and electronics, li
 
 
 <a href="https://twitter.com/florianfrank93">
-  <svg>
-    <image class="change-my-color" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="35" />
-</svg>
+  <img align="left" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(175deg)" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="35" />
+
 </a>
 
 <br>
 <a href="https://www.linkedin.com/in/florian-frank-1287a21b5">
-  <svg>
-    <image class="change-my-color" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="35" />
-</svg>
+  <img align="left" style="filter: invert(0.5) sepia(73.7) saturate(91.5) hue-rotate(204deg)"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="35" />
 </a>
 <br>
 
 <a href="https://www.instagram.com/florian__frank/">
-  <svg>
-    <image class="change-my-color" xlink:href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="35" />
-</svg>
+  <img align="left" style="filter: invert(0.5) sepia(86) saturate(72.2) hue-rotate(339deg)"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="35" />
 </a>
 
 
