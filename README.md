@@ -6,7 +6,7 @@
 ### About Me
 :mortar_board: I'm currently working as a PhD student at the University of Passau in Germany.<br>
 :key: My research interests are in the domain of IT-Security and Hardware security. Currently I'm focusing on the development  of hardware trust anchors within different types of memories. 
-But I'm also interested in other domains of computer science and electronics, like embedded systems, PCB design, machine learning and Linux. My favorite programming language is C++.
+But I'm also interested in other domains of computer science and open source projects. My favorite programming language is C++.
 
 <br>
 
