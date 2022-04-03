@@ -2,6 +2,10 @@
 
 ## Hi I'm Florian
 
+### I'm currently working on: 
+
+- Different types of cryptographic FPGA implementations. 
+- Classification algorithms for different kinds of Physical Unclonable Functions.
   
 ### About Me
 :mortar_board: I'm currently working as a PhD student at the University of Passau in Germany.<br>
