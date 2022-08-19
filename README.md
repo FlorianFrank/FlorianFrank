@@ -6,10 +6,11 @@
 
 - Different types of cryptographic FPGA implementations. 
 - Classification algorithms for different kinds of Physical Unclonable Functions.
+- Implementing a library to access measurment devices like Oscilloscopes, SMU's or function generators and software to automate analog measurements
   
 ### About Me
 ##### :mortar_board: I'm currently working as a PhD student at the University of Passau in Germany.<br>
-:key: My research interests are in the domain of IT-Security and Hardware security. Currently I'm focusing on the development  of hardware trust anchors within different types of memories. 
+:key: My research interests are in the domain of IT-Security and Hardware security. Currently I'm focusing on the development of hardware trust anchors within different types of non-volatile memories. Especially FRAM (Ferroelectric Random Access Memory), MRAM (Magnetiresistive Random Access Memory) and ReRAM (Resistive Random Access Memory). I also investigate the internal characteristics of low-level digital and analog elements like memristors or carbon nanotube field-effect transistors.
 But I'm also interested in other domains of computer science and open source projects. My favorite programming language is C++.
 
 <br>
