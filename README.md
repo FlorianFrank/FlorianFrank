@@ -17,7 +17,13 @@ But I'm also interested in other domains of computer science and open source pro
 
 ### Contact Me
 
+<a href="https://www.researchgate.net/profile/Florian-Frank-10">
+  <img align="left" style="filter: invert(0.5) sepia(86) saturate(72.2) hue-rotate(339deg)"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" width="35" />
+</a>
 
+<a href="https://scholar.google.com/citations?user=o9Gu_FMAAAAJ&hl=de&oi=sra">
+  <img align="left" style="filter: invert(0.5) sepia(86) saturate(72.2) hue-rotate(339deg)"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" width="35" />
+</a>
 
 <a href="https://twitter.com/florianfrank93">
   <img align="left" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(175deg)" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="35" />
