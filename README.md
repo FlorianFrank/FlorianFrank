@@ -15,6 +15,11 @@ But I'm also interested in other domains of computer science and open source pro
 
 <br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianFrank&hide=HTML,Roff,Shell,Javascript,Makefile,CSS,Vim%20script&layout=compact)
+
+<br><br>
+
+
 ### Contact Me
 
 <a href="https://www.researchgate.net/profile/Florian-Frank-10">
