@@ -51,6 +51,6 @@ But I'm also interested in other domains of computer science and open source pro
  :mount_fuji: I also like to go hiking in the mountains.<br>
  :ski: and skiing during the winter.<br>
  :boat: :camera: Traveling  and combining my trips with landscape photography is also one of my favorite hobbies.<br>
- :airplane: I'm currently working on my private pilot license and I'm member of the fire department of my home town.<br>
+ :airplane: I'm owner of private pilot license and I'm member of the fire department of my home town.<br>
  
  
